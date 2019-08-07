@@ -1,0 +1,6 @@
+[0m[[0m[31merror[0m] [0m[0m/Users/ilalli/development/zio-play/src/main/scala/ZioPlay.scala:32:12: type mismatch;[0m
+[0m[[0m[31merror[0m] [0m[0m found   : zio.ZIO[Any with zio.clock.Clock,Any,Unit][0m
+[0m[[0m[31merror[0m] [0m[0m required: zio.ZIO[zio.clock.Clock,Throwable,Unit][0m
+[0m[[0m[31merror[0m] [0m[0m      _    <- flakyPrint("complicated", successRate = 0.25f).retry(Schedule.recurs(5))[0m
+[0m[[0m[31merror[0m] [0m[0m           ^[0m
+[0m[[0m[31merror[0m] [0m[0mone error found[0m

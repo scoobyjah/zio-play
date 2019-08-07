@@ -1,0 +1,11 @@
+[0m[[0m[0minfo[0m] [0m[0mPackaging /Users/ilalli/development/zio-play/target/scala-2.12/zio-play_2.12-0.1.jar ...[0m
+[0m[[0m[0mdebug[0m] [0m[0mInput file mappings:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	FlakyPrintException.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/ilalli/development/zio-play/target/scala-2.12/classes/FlakyPrintException.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	ZioPlayException.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/ilalli/development/zio-play/target/scala-2.12/classes/ZioPlayException.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	ZioPlay$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/ilalli/development/zio-play/target/scala-2.12/classes/ZioPlay$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	ZioPlay.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/ilalli/development/zio-play/target/scala-2.12/classes/ZioPlay.class[0m
+[0m[[0m[0minfo[0m] [0m[0mDone packaging.[0m
